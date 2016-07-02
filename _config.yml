@@ -1,0 +1,14 @@
+layout_spectrum: 0.8069906537421048
+typography_spectrum: 0.006176626542583108
+color:
+  brandStrength: 0.368876482360065
+  lightness: 0.6550835717935115
+  saturation: 0.10505191283300519
+  rhythmicContrast: 0.07853799313306808
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: generalist
